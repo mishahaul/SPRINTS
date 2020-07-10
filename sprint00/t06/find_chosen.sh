@@ -1,0 +1,1 @@
+grep -i -w "\<redpill\>" characters
